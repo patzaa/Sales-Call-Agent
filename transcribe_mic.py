@@ -45,7 +45,7 @@ class TranscriptionApp:
         self.temp_audio_path = None
         
         # Speaker names
-        self.speaker1 = "Daniel"
+        self.speaker1 = "Speaker 1"
         self.speaker2 = "Speaker 2"
         
         # Audio visualization data - use multiples of chunk size
